@@ -1,4 +1,8 @@
-# 🛵 SHLOVO — Become Tbilisi's Ultimate Delivery Courier!
+# <p align="center">
+  <img src="./assets/logo.png" alt="SHLOVO Logo" width="200"/>
+</p>
+
+<h1 align="center">SHLOVO — Become Tbilisi's Ultimate Delivery Courier!</h1>
 
 Jump on your motorcycle and hit the streets of Tbilisi!  
 You are a courier with one mission — **deliver every order on time**.  
