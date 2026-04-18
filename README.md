@@ -51,10 +51,10 @@ Just you, your bike, and the road.
 ## 📸 Screenshots
 
 ### 🛣️ Gameplay
-![Gameplay Screenshot](./screenshots/gameplay.png)
+![Gameplay Screenshot](./screenshots/4.png)
 
 ### 🚗 Traffic Dodge
-![Traffic Screenshot](./screenshots/traffic.png)
+![Traffic Screenshot](./screenshots/6.png)
 
 ### 🏙️ City Vibes
 ![City Screenshot](./screenshots/city.png)
