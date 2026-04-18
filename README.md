@@ -1,4 +1,4 @@
-# <p align="center">
+ <p align="center">
   <img src="./Screenshots/Shlovo.png" alt="SHLOVO Logo" width="200"/>
 </p>
 
