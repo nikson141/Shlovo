@@ -83,9 +83,6 @@ Just you, your bike, and the road.
 - Android (Primary)
 - iOS (Planned)
 
----
 
-## 📦 Installation
 
-```bash
-git clone https://github.com/your-username/shlovo.git
+
