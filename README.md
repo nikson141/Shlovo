@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="./assets/shlovo.png" alt="SHLOVO Logo" width="200"/>
+  <img src="./assets/Shlovo.png" alt="SHLOVO Logo" width="200"/>
 </p>
 
 <h1 align="center">SHLOVO — Become Tbilisi's Ultimate Delivery Courier!</h1>
