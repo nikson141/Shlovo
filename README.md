@@ -80,8 +80,8 @@ Just you, your bike, and the road.
 
 ## 📱 Platform
 
-- Android (Primary)
-- iOS (Planned)
+- Android 
+- iOS 
 
 
 
